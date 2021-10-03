@@ -1,7 +1,7 @@
 // Stack
+// Stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle.
 
 // push, pop, peak, length
-
 var Stack = function () {
   this.count = 0;
   this.storage = {};
